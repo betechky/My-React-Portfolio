@@ -2,7 +2,7 @@
   "name": "react-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://betechky.github.io/My-React-Portfolio/",
+  "homepage": "https://betechky.github.io/My-React-Portfolio",
   "dependencies": {
     "@carbon/icons-react": "^10.34.0",
     "@carbon/themes": "^10.37.0",
